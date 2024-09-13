@@ -1,0 +1,18 @@
+body {
+  margin: 1vw;
+  background-color: rgb(248, 80, 80);
+}
+
+.reg_form {
+  display: flex;
+  flex-direction: column;
+}
+.reg_form input[type=text] {
+  background-color: green;
+  border: 1px solid orange;
+  color: white;
+}
+.reg_form input[type=submit] {
+  background-color: yellow;
+  border: 1px solid red;
+}/*# sourceMappingURL=reg.css.map */
